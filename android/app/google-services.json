@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837597341054",
+    "project_id": "learnie-712bf",
+    "storage_bucket": "learnie-712bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837597341054:android:c5e5e9b3be2093458f7f2f",
+        "android_client_info": {
+          "package_name": "com.tresa.authentic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837597341054-n7fbr7do1liqau5q8jp7q5mivs0ch44k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYYZ6LtYLihcSmDo39kVjDto5pDRBqvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837597341054-n7fbr7do1liqau5q8jp7q5mivs0ch44k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
